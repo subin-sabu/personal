@@ -1,0 +1,10 @@
+.grid {
+    background-color: rgb(103, 216, 47);
+    margin: 1rem;
+}
+h2{
+    background-color: beige;
+    border: double;
+    border-width: 3px;
+    border-color: black;
+}

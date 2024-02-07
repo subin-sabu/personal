@@ -1,0 +1,13 @@
+nav {
+    background-color: aqua;
+    
+}
+li {
+    color: red;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+    padding: 1rem;
+}
